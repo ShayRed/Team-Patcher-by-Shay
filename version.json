@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2025-11-23",
+  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.0.0/",
+  "files": [
+    "Shay TeamPatcher.exe",
+    "Shay TeamPatcher.exe.config",
+    "Updater.exe"
+  ],
+  "changelog": "🎉 ERSTE RELEASE - Version 1.0.0\\n\\n✨ FEATURES\\n• Team Patcher für einfaches Datei-Management\\n• Unterstützung für mehrere Ordner (Client, Client_SRC, Proto)\\n• Automatische Patchlist-Erstellung\\n• Download von Server-Updates\\n• Versionsverwaltung\\n• Automatische Update-Prüfung beim Start\\n• Discord-Integration\\n\\n🔧 TECHNISCH\\n• Windows Forms UI\\n• .NET Framework 4.7.2\\n• Einfache Konfiguration über config.txt"
+}
+
