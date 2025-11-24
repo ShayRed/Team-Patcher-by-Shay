@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2025-11-24",
-  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.1.0/",
+  "version": "1.2.0",
+  "releaseDate": "2025-11-25",
+  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.2.0/",
   "files": [
     "Shay_TeamPatcher.exe",
     "Shay_TeamPatcher.exe.config",
@@ -9,5 +9,6 @@
     "Microsoft.WindowsAPICodePack.dll",
     "Microsoft.WindowsAPICodePack.Shell.dll"
   ],
-  "changelog": "🆕 VERSION 1.1.0 - Update\\n\\n✨ NEUE FEATURES\\n• Modernes, professionelles UI-Design\\n• Automatische Versionsnummer-Generierung (große, eindeutige Zahlen)\\n• Download-Geschwindigkeitsanzeige in Echtzeit (MB/s und Mbit/s)\\n• Moderner Windows-Ordnerauswahl-Dialog (CommonOpenFileDialog)\\n• Konfigurationen werden in AppData gespeichert (sicherer)\\n• Verbesserte Fehlerbehandlung\\n\\n🔧 VERBESSERUNGEN\\n• Professionelles Design mit Schatten und modernen Buttons\\n• Icons für bessere Benutzerfreundlichkeit\\n• Optimierte Download-Geschwindigkeitsberechnung\\n• Bessere Fehlerbehandlung bei negativen Werten\\n• Moderneres Windows-Interface\\n\\n🐛 BUGFIXES\\n• Behebung von negativen Geschwindigkeitswerten bei langen Downloads\\n• Korrigierte Geschwindigkeitsberechnung bei mehreren Dateien"
+  "changelog": "🆕 VERSION 1.2.0 - Update\\n\\n✨ NEUE FEATURES\\n• Fallback-Mechanismus für Ordnerauswahl-Dialog (funktioniert auch ohne DLLs)\\n• Windows API Code Pack DLLs werden jetzt mit dem Release ausgeliefert\\n\\n🔧 VERBESSERUNGEN\\n• Robuste Fehlerbehandlung beim Öffnen des Ordnerauswahl-Dialogs\\n• Automatischer Fallback auf Standard-Dialog bei fehlenden DLLs\\n• Verbesserte Kompatibilität für alle Benutzer\\n\\n🐛 BUGFIXES\\n• Behebung: Create Patchlist funktioniert jetzt auch bei Kunden ohne DLLs\\n• Korrigierte Syntaxfehler in der CreatePatchList-Methode\\n• Behebung des Endlos-Update-Loops nach erfolgreichem Update"
 }
+
