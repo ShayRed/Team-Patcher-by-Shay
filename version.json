@@ -1,13 +1,11 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2025-11-23",
-  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.0.0/",
+  "version": "1.1.0",
+  "releaseDate": "2025-11-24",
+  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.1.0/",
   "files": [
     "Shay_TeamPatcher.exe",
     "Shay_TeamPatcher.exe.config",
     "Updater.exe"
   ],
-  "changelog": "🎉 ERSTE RELEASE - Version 1.0.0\\n\\n✨ FEATURES\\n• Team Patcher für einfaches Datei-Management\\n• Unterstützung für mehrere Ordner (Client, Client_SRC, Proto)\\n• Automatische Patchlist-Erstellung\\n• Download von Server-Updates\\n• Versionsverwaltung\\n• Automatische Update-Prüfung beim Start\\n• Discord-Integration\\n\\n🔧 TECHNISCH\\n• Windows Forms UI\\n• .NET Framework 4.7.2\\n• Einfache Konfiguration über config.txt"
+  "changelog": "🆕 VERSION 1.1.0 - Update\\n\\n✨ NEUE FEATURES\\n• Modernes, professionelles UI-Design\\n• Automatische Versionsnummer-Generierung (große, eindeutige Zahlen)\\n• Download-Geschwindigkeitsanzeige in Echtzeit (MB/s und Mbit/s)\\n• Moderner Windows-Ordnerauswahl-Dialog (CommonOpenFileDialog)\\n• Konfigurationen werden in AppData gespeichert (sicherer)\\n• Verbesserte Fehlerbehandlung\\n\\n🔧 VERBESSERUNGEN\\n• Professionelles Design mit Schatten und modernen Buttons\\n• Icons für bessere Benutzerfreundlichkeit\\n• Optimierte Download-Geschwindigkeitsberechnung\\n• Bessere Fehlerbehandlung bei negativen Werten\\n• Moderneres Windows-Interface\\n\\n🐛 BUGFIXES\\n• Behebung von negativen Geschwindigkeitswerten bei langen Downloads\\n• Korrigierte Geschwindigkeitsberechnung bei mehreren Dateien"
 }
-
-
