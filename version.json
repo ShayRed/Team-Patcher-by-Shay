@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "releaseDate": "2025-11-25",
-  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.2.0/",
+  "downloadUrl": "https://github.com/ShayRed/Team-Patcher-by-Shay/releases/download/v1.3.0/",
   "files": [
     "Shay_TeamPatcher.exe",
     "Shay_TeamPatcher.exe.config",
@@ -9,6 +9,6 @@
     "Microsoft.WindowsAPICodePack.dll",
     "Microsoft.WindowsAPICodePack.Shell.dll"
   ],
-  "changelog": "🆕 VERSION 1.2.0 - Update\\n\\n✨ NEUE FEATURES\\n• Fallback-Mechanismus für Ordnerauswahl-Dialog (funktioniert auch ohne DLLs)\\n• Windows API Code Pack DLLs werden jetzt mit dem Release ausgeliefert\\n\\n🔧 VERBESSERUNGEN\\n• Robuste Fehlerbehandlung beim Öffnen des Ordnerauswahl-Dialogs\\n• Automatischer Fallback auf Standard-Dialog bei fehlenden DLLs\\n• Verbesserte Kompatibilität für alle Benutzer\\n\\n🐛 BUGFIXES\\n• Behebung: Create Patchlist funktioniert jetzt auch bei Kunden ohne DLLs\\n• Korrigierte Syntaxfehler in der CreatePatchList-Methode\\n• Behebung des Endlos-Update-Loops nach erfolgreichem Update"
+  "changelog": "🆕 VERSION 1.3.0 - Update\\n\\n✨ NEUE FEATURES\\n• Datei- und Ordnerauswahl: Patchlist kann jetzt sowohl einzelne Dateien (.exe, etc.) als auch ganze Ordner verarbeiten\\n• Flexiblere Patchlist-Erstellung: Wähle einzelne Dateien oder komplette Ordnerstrukturen\\n\\n🔧 VERBESSERUNGEN\\n• Verbesserte Benutzerfreundlichkeit beim Erstellen von Patchlists\\n• Unterstützung für gemischte Auswahl (Dateien und Ordner)\\n• Intelligente Pfadverarbeitung für einzelne Dateien\\n\\n🐛 BUGFIXES\\n• Behebung: Dialog erkennt jetzt auch einzelne Dateien, nicht nur Ordner\\n• Korrigierte Pfadverarbeitung für einzelne Dateien in Patchlists"
 }
 
